@@ -114,7 +114,7 @@ namespace kalkulator
             }
             else
             {
-                wynikText.Text = "Nie mo¿esz zainicjowaæ wymiany\nna t¹ sam¹ walutê!";
+                wynikText.Text = "WystÄ…piÅ‚ bÅ‚Ä…d.\nPrawdopodobnie nie zaznaczyÅ‚eÅ›\nwaluty lub dwie takie same.";
             }
         }
     }
